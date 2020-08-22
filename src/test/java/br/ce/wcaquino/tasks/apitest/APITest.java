@@ -23,7 +23,7 @@ public class APITest {
 			.statusCode(200)
 		;
 	}
-	
+	/*
 	@Test
 	public void deveAdicionarTarefaComSucesso() {
 		RestAssured.given()
@@ -72,5 +72,5 @@ public class APITest {
 		.then()
 			.statusCode(204)
 		;
-	}
+	}*/
 }
